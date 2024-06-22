@@ -7,7 +7,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3>Object-Oriented Programming (OOP) Principles</h3>
+<h3>Principles</h3>
 
 ➙  **Encapsulation**: Bundling the data (variables) and code (methods) together into a single unit called a class. It restricts direct access to some of an object's components and can prevent the accidental modification of data.
 <br/>
@@ -17,7 +17,7 @@
 <br/>
 ➙  **Abstraction**: The concept of hiding the complex implementation details and showing only the essential features of the object. It helps in reducing programming complexity and effort.
 
-<h3>JavaFX for GUI Development</h3>
+<h3>GUI Development</h3>
 
 ➙  Introduction to JavaFX for building modern graphical user interfaces (GUIs) in Java applications.
 <br/>
@@ -50,9 +50,9 @@
 
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/17arhaan/JavaOOP.git
+    git clone https://github.com/17arhaan/ObjectOrientedProgramming.git
     ```
-2. **Navigate to a Project**: Explore the `JavaOOP` directory to find the project you want to work on.
+2. **Navigate to a Project**: Explore the `ObjectOrientedProgramming` directory to find the project you want to work on.
 3. **Follow the Instructions**: Each project folder contains a `README.md` with setup instructions and detailed information.
 4. **Learn and Contribute:** Use the repository as a learning resource and feel free to contribute by submitting issues, pull requests, or suggestions.
 5. **Run the Project**: Follow the setup instructions to run the project locally using your preferred IDE.
@@ -62,5 +62,5 @@
 This repository is licensed under the MIT License. See the LICENSE.md for more details.
    
   ```bash
-    https://github.com/17arhaan/JavaOOP/LICENSE.md
+    https://github.com/17arhaan/ObjectOrientedProgramming/LICENSE.md
   ```
